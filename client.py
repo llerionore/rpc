@@ -3,7 +3,7 @@ import json
 import uuid
 import time
 
-SERVER_IP = "172.31.38.104"
+SERVER_IP = "16.171.159.221"
 PORT = 5000
 TIMEOUT = 2
 MAX_RETRIES = 3
